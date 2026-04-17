@@ -20,6 +20,6 @@ This entire project utilizes the Python  using Jupyter Notebooksconsists of two 
 - Jupyter Notebooks
 
 ## Data Source:
-This dataset was obtained from Kaggle platform. Here is the short url link to the data (https://JobSalaryDatasetkaggle.com)
+This dataset was obtained from Kaggle platform. Here is the short url link to the data (https://www.kaggle.com/datasets/hosan707/job-salary-prediction-dataset)
 
 ## CONCLUSION
