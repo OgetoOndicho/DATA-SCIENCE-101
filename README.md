@@ -14,7 +14,7 @@ This entire project utilizes the Python  using Jupyter Notebooksconsists of two 
 
 ## STEPS TAKEN
 - Data investigation, structuring and cleaning. This is important to ensure consistency within data, minimize errors and ensure that final data findings are accurate
-- Building visuals:
+- Building visuals: Use of python to build visuals hence translating data into a more understandable visuals
 - Feauture engineering:
 - Predictive modelling and forecasting:
 
