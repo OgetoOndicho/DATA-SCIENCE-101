@@ -8,6 +8,8 @@ This entire project utilizes the Python  using Jupyter Notebooksconsists of two 
  - To investigate how factors like education, experience, skills and certifications drive  salaries in different Job descriptions across the industries.
  - To investigate the average salary of employees and the highest paying job title in the job market.
  - To investigate the most dominant industries in the job market.
+ - To investigate and compare distributions of Categorical Variables versus Numerical Variables.
+ - To investigate relationships between the variables.
  - To predict future salaries in the job market.
 
 ## STEPS TAKEN
