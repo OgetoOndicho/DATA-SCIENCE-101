@@ -19,7 +19,7 @@ This entire project utilizes the Python  using Jupyter Notebooksconsists of two 
 ## TOOLS USED
 - Jupyter Notebooks
 
-## Dataset Source:
-(https://JobSalaryPredictionDatasetkaggle.com)
+## Data Source:
+This dataset was obtained from Kaggle platform. Here is the short url link to the data (https://JobSalaryDatasetkaggle.com)
 
 ## CONCLUSION
