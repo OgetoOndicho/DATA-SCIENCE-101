@@ -1,8 +1,8 @@
 # TECH JOB ROLES ANALYSIS AND PREDICTIVE MODELLING WITH PYTHON
-This is an end to end Data Science Project. The project details a comprehensive investigation on a dataset with over 250, 000 records. With information about about job titles, experience level, level of education, skills, certifications, industry, company size and location, my intention is to utlize power of Python in Data Science specifically for the divisions of Data Analysis and Predictive Modelling. This repository therefore comprises of two distinct folders: 
-- The first folder is exclusively for Exploratory Data Analysis: To understand the data and uncover insights. I investigate how various factors influence Salary in the Tech Job Roles of the 24th Century .
-- The Second Folder is exclusively for Predictive Modelling. With key emphasis put on Salary Prediction in the future job market.
-This entire project utilizes the Python  using Jupyter Notebooksconsists of two folders with Jupyter Notebooks.
+This is an end to end Data Science Project. The project details a comprehensive investigation on a dataset with over 250, 000 records. With information about about job titles, experience level, level of education, skills, certifications, industry, company size and location, my intention is to utlize power of Python in Data Science specifically for the divisions of Data Analysis and Predictive Modelling. This repository therefore comprises of three distinct parts; 
+- The first part: Covers Exploratory Data Analysis.
+- The Second Part: Covers Statistical Analysis and Computations.
+- The Third Part: Covers Predictive Modelling.
 
 ## PROJECT OBJECTIVES
  - To investigate how factors like education, experience, skills and certifications drive  salaries in different Job descriptions across the industries.
@@ -10,10 +10,17 @@ This entire project utilizes the Python  using Jupyter Notebooksconsists of two 
  - To investigate the most dominant industries in the job market.
  - To investigate and compare distributions of Categorical Variables versus Numerical Variables.
  - To investigate relationships between the variables.
- - To predict future salaries in the job market.
+ - To create a model for predicting future salaries in the job market.
 
-## STEPS TAKEN
-- Data investigation, structuring and cleaning. This is important to ensure consistency within data, minimize errors and ensure that final data findings are accurate
+## OUTLINE PROCEDURE
+### 1. Exploratory Data Analysis.
+This is the first and essential step in any Data Analysis process. It involved inspecting each and every column to understand what it stands for. Inspecting for the data types available in the dataset. Carrying out proper data structuring and cleaning procedures. This is done so as to ensure proper consistency in the dataset, minimize errors and ensure that final data findings are accurate and truly reflect the dataset.
+
+### 2. Statistical Computation and Analysis.
+This process involved use of the Power of Statistics to help identify patterns within the dataset, quantify relationships among variables and discover how the dataset is essentially distributed across. The power of Statistics is paramount to Quantify data with Certainity giving confidence to Data Analysts and Scientists when reporting data findings,
+
+### 3. Predictive Modelling.
+
 - Building visuals: Use of python to build visuals hence translating data into a more understandable visuals
 - Feauture engineering:
 - Predictive modelling and forecasting:
