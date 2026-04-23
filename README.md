@@ -1,4 +1,4 @@
-# TECH JOB ROLES ANALYSIS AND PREDICTIVE MODELLING WITH PYTHON
+# TECH JOBS SALARIES ANALYSIS AND PREDICTIVE MODELLING WITH PYTHON
 This is an end to end Data Science Project. The project details a comprehensive investigation on a dataset with over 250, 000 records. With information about about job titles, experience level, level of education, skills, certifications, industry, company size and location, my intention is to utlize power of Python in Data Science specifically for the divisions of Data Analysis and Predictive Modelling. This repository therefore comprises of three distinct parts; 
 - The first part: Covers Exploratory Data Analysis.
 - The Second Part: Covers Statistical Analysis and Computations.
@@ -20,10 +20,8 @@ This is the first and essential step in any Data Analysis process. It involved i
 This process involved use of the Power of Statistics to help identify patterns within the dataset, quantify relationships among variables and discover how the dataset is essentially distributed across. The power of Statistics is paramount to Quantify data with Certainity giving confidence to Data Analysts and Scientists when reporting data findings,
 
 ### 3. Predictive Modelling.
+This was the last stage of my Data Science project. I built a Regression Model to help predict future salaries in the Tech Job Market in the world. Predictive Modelling is crucial in Data Science sphere as it creates Algorithms that allow future forecasting of the expected patterns and trends in regards to salaries in the future job market.
 
-- Building visuals: Use of python to build visuals hence translating data into a more understandable visuals
-- Feauture engineering:
-- Predictive modelling and forecasting:
 
 ## TOOLS USED
 - Jupyter Notebooks
@@ -31,4 +29,6 @@ This process involved use of the Power of Statistics to help identify patterns w
 ## Data Source:
 This dataset was obtained from Kaggle platform. Here is the short url link to the data (https://www.kaggle.com/datasets/hosan707/job-salary-prediction-dataset)
 
+
 ## CONCLUSION
+Python is powerful language that is widely used to explore, quntify, analyze and predict data
