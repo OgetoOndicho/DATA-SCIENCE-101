@@ -12,7 +12,7 @@ This is an end to end Data Science Project. The project details a comprehensive 
  - To investigate relationships between the variables.
  - To create a model for predicting future salaries in the job market.
 
-## OUTLINE PROCEDURE
+## PROJECT OUTLINE & PROCEDURE
 ### 1. Exploratory Data Analysis.
 This is the first and essential step in any Data Analysis process. It involved inspecting the entire dataset, understanding what each column to understand represents.
 Inspecting the dataset following data cleaning allows to remove duplicates, check for missing values in case there are any, they are filled, proper formatting and structuring of the dataset.This is done so as to ensure proper data consistency, minimizing of errors and ensure that final data findings are as accurate as possible.
