@@ -18,7 +18,11 @@ This is the first and essential step in any Data Analysis process. It involved i
 Inspecting the dataset following data cleaning allows to remove duplicates, check for missing values in case there are any, they are filled, proper formatting and structuring of the dataset.This is done so as to ensure proper data consistency, minimizing of errors and ensure that final data findings are as accurate as possible.
 
 ### 2. Statistical Computation and Analysis.
-This process involved use of the Power of Statistics to help identify patterns within the dataset, quantify relationships among variables and discover how the dataset is essentially distributed across. The power of Statistics is paramount to Quantify data with Certainity giving confidence to Data Analysts and Scientists when reporting data findings,
+This process involved use of the Power of Statistics to help identify patterns within the dataset, quantify relationships among variables and discover how the dataset is essentially distributed across. The power of Statistics is paramount to Quantify data with Certainity giving confidence to Data Analysts and Scientists when reporting data findings.
+Some of the concepts primarily covered during this project included:
+- Descriptive and Summary Statistics Concepts.
+- Sampling. Specifically random sampling which ensures that all elements in the data have same chance of being included.
+- Constructing Confidence Intervals. Crucial to give assurity when quantifying data metrics.
 
 ### 3. Predictive Modelling.
 This was the last stage of my Data Science project. I built a Regression Model to help predict future salaries in the Tech Job Market in the world. Predictive Modelling is crucial in Data Science sphere as it creates Algorithms that allow future forecasting of the expected patterns and trends in regards to salaries in the future job market.
