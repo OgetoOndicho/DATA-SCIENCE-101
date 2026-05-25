@@ -14,7 +14,8 @@ This is an end to end Data Science Project. The project details a comprehensive 
 
 ## OUTLINE PROCEDURE
 ### 1. Exploratory Data Analysis.
-This is the first and essential step in any Data Analysis process. It involved inspecting each and every column to understand what it stands for. Inspecting for the data types available in the dataset. Carrying out proper data structuring and cleaning procedures. This is done so as to ensure proper consistency in the dataset, minimize errors and ensure that final data findings are accurate and truly reflect the dataset.
+This is the first and essential step in any Data Analysis process. It involved inspecting the entire dataset, understanding what each column to understand represents.
+Inspecting the dataset following data cleaning allows to remove duplicates, check for missing values in case there are any, they are filled, proper formatting and structuring of the dataset.This is done so as to ensure proper data consistency, minimizing of errors and ensure that final data findings are as accurate as possible.
 
 ### 2. Statistical Computation and Analysis.
 This process involved use of the Power of Statistics to help identify patterns within the dataset, quantify relationships among variables and discover how the dataset is essentially distributed across. The power of Statistics is paramount to Quantify data with Certainity giving confidence to Data Analysts and Scientists when reporting data findings,
