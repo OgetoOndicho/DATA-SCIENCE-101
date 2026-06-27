@@ -36,4 +36,4 @@ This dataset was obtained from Kaggle platform. Here is the short url link to th
 
 
 ## CONCLUSION
-Python is powerful language that is widely used to explore, quntify, analyze and predict data
+Python is powerful language that is widely used to explore, quntify, analyze and predict data.
