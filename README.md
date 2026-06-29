@@ -1,4 +1,4 @@
-# TECH JOBS SALARIES ANALYSIS AND PREDICTIVE MODELLING WITH PYTHON.
+# TECH JOBS SALARIES ANALYSIS AND PREDICTIVE MODELLING WITH PYTHON
 This is an end to end Data Science Project. The project details a comprehensive investigation on a dataset with over 250, 000 records. With information about about job titles, experience level, level of education, skills, certifications, industry, company size and location, my intention is to utlize power of Python in Data Science specifically for the divisions of Data Analysis and Predictive Modelling. This repository comprises of three distinct parts; 
 - The first part: Covers Exploratory Data Analysis.
 - The Second Part: Covers Statistical Analysis and Computations.
