@@ -25,7 +25,14 @@ Some of the concepts primarily covered during this project included:
 - Constructing Confidence Intervals. Crucial to give assurity when quantifying data metrics.
 
 ### 3. Predictive Modelling.
-This was the last stage of my Data Science project. I built a Regression Model to help predict future salaries in the Tech Job Market in the world. Predictive Modelling is crucial in Data Science sphere as it creates Algorithms that allow future forecasting of the expected patterns and trends in regards to salaries in the future job market. A Regression Model is a Supervised Learning Technique under predictive tools used in Machine Learning and Artificial Models
+This was the last stage of my Data Science project. I built a Regression Model to help predict future salaries in the Tech Job Market in the world. Predictive Modelling is crucial in Data Science sphere as it creates Algorithms that allow future forecasting of the expected patterns and trends in regards to salaries in the future job market. A Regression Model is a Supervised Learning Technique under predictive tools used in Machine Learning and Artificial Models.
+- This phase involved building both a Linear Regression and a Multiple Linear Regression Model.
+- Feature Engineering.
+- Checking for the Linear Model's Assumptions.
+- Interpretation of the Models coeffiecients.
+- Evaluation of the Model's using defined Metrics.
+
+In conclusion at Brief: Feature Engineering helps improve a Linear Regression Model to some percentange. 
 
 
 ## TOOLS USED
